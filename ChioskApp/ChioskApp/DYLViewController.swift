@@ -1,4 +1,4 @@
-// [TEST] This is my territory, go away!
+// dyl: 충돌 테스트!!!!
 //  DYLViewController.swift
 //  ChioskApp
 //
